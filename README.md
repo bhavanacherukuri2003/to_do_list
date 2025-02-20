@@ -1,6 +1,6 @@
-#Sample output for the above code :
+# Sample output for the above code :
 
-#To-Do List Application Menu:
+# To-Do List Application Menu:
 
 1.Display To-Do List
 
@@ -16,7 +16,7 @@ Enter the task's name: buying the onions
 
 Task 'buying the onions' added successfully.
 
-To-Do List Application Menu:
+# To-Do List Application Menu:
 
 1.Display To-Do List
 
@@ -32,7 +32,7 @@ Enter the task's name: buy the doll
 
 Task 'buy the doll' added successfully.
 
-To-Do List Application Menu:
+# To-Do List Application Menu:
 
 1.Display To-Do List
 
@@ -54,7 +54,7 @@ Enter the task number to mark as completed: 1
 
 Task 'buying the onions' marked as completed.
 
-To-Do List Application Menu:
+# To-Do List Application Menu:
 
 1.Display To-Do List
 
@@ -76,7 +76,7 @@ Enter the task number to mark as completed: 2
 
 Task 'buy the doll' marked as completed.
 
-To-Do List Application Menu:
+# To-Do List Application Menu:
 
 1.Display To-Do List
 
@@ -98,7 +98,7 @@ Enter the task number to remove: 2
 
 Task 'buy the doll' removed successfully.
 
-To-Do List Application Menu:
+# To-Do List Application Menu:
 
 1.Display To-Do List
 
@@ -114,7 +114,7 @@ To-Do List:
 
 buying the onions - Completed
 
-To-Do List Application Menu:
+# To-Do List Application Menu:
 
 1.Display To-Do List
 
@@ -134,7 +134,7 @@ Enter the task number to remove: 1
 
 Task 'buying the onions' removed successfully.
 
-To-Do List Application Menu:
+# To-Do List Application Menu:
 
 1.Display To-Do List
 
